@@ -62,7 +62,7 @@
 
 
 ![***jobs*** 실행예시](jobs_example.png)
-
+<img src ="jobs_example.png" width="500" height="300">
 
 ---
 
