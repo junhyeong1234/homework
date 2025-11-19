@@ -77,3 +77,8 @@
 | Running | 실행 중                            |
 | Stopped | 중지(Suspended, Ctrl+Z)           |
 | 명령어     | 실제 실행한 작업                       |      
+
+
+4. 리눅스 명렁어 ***kill***
+
+##### 
