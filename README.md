@@ -61,8 +61,7 @@
 - ***jobs*** 명령어 실행 예시
 
 
-![***jobs*** 실행예시](jobs_example.png)
-<img src ="jobs_example.png" width="500" height="300">
+<img src ="jobs_example.png" width="600" height="300">
 
 ---
 
