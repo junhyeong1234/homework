@@ -56,8 +56,5 @@ $ jobs
 | Stopped | 중지(Suspended, Ctrl+Z)           |
 | 명령어     | 실제 실행한 작업                       |
 
-
-
-
 | TIME    | 누적 CPU 사용 시간      |
-| COMMAND | 실행된 명령 전체         |
+| COMMAND | 실행된 명령 전체       
